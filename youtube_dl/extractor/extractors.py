@@ -510,6 +510,7 @@ from .khanacademy import KhanAcademyIE
 from .kickstarter import KickStarterIE
 from .kinja import KinjaEmbedIE
 from .kinopoisk import KinoPoiskIE
+from .kk1990 import kk1990IE
 from .konserthusetplay import KonserthusetPlayIE
 from .krasview import KrasViewIE
 from .ku6 import Ku6IE
